@@ -1,0 +1,27 @@
+# VS Code / Visual Studio Hidden folders
+.vs/
+.vscode/
+/.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Bb]uild/
+out/
+
+# imgui gen files
+imgui.ini
+
+# mac os files
+.DS_STORE
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
